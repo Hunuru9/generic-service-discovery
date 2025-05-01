@@ -1,4 +1,4 @@
-# 📡 Eureka Service Discovery
+# 📡 Generic Service Discovery
 
 This is the **Eureka Server** for the microservices architecture. 
 
